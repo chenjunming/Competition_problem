@@ -1,0 +1,5 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  main.cpp
+i:\c\workplace\competition_problem\competition_problem\main.cpp(193): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+  Competition_problem.vcxproj -> I:\c\workplace\Competition_problem\Debug\Competition_problem.exe
